@@ -1,0 +1,2 @@
+body{margin:0}.card{display:flex}.card__star{height:16px;width:16px;margin-right:4px;background-image:url(star-active.3d99ddfd.svg);background-repeat:no-repeat;background-position:50%}.stars--0 .card__star,.stars--1 .card__star:nth-of-type(n+2),.stars--2 .card__star:nth-of-type(n+3),.stars--3 .card__star:nth-of-type(n+4),.stars--4 .card__star:nth-of-type(n+5){background-image:url(star.040e0f1e.svg)}
+/*# sourceMappingURL=style.82b5c6bb.css.map */
